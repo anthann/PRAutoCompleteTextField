@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'PRAutoCompleteTextField', :exclusive => true do
+  pod "PRAutoCompleteTextField", :path => "../"
+
+  
+end

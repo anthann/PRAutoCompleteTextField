@@ -1,0 +1,14 @@
+PODS:
+  - PRAutoCompleteTextField (0.1.0)
+
+DEPENDENCIES:
+  - PRAutoCompleteTextField (from `../`)
+
+EXTERNAL SOURCES:
+  PRAutoCompleteTextField:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PRAutoCompleteTextField: 268e351a6361e0c98d604ab8ce898ee1edc5a71a
+
+COCOAPODS: 0.35.0

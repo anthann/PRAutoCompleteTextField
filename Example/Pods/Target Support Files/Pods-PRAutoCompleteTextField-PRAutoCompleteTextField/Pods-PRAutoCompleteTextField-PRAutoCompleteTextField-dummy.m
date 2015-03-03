@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_PRAutoCompleteTextField_PRAutoCompleteTextField : NSObject
+@end
+@implementation PodsDummy_Pods_PRAutoCompleteTextField_PRAutoCompleteTextField
+@end
