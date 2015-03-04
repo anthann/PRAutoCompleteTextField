@@ -17,6 +17,14 @@ PRAutoCompleteTextField is available through [CocoaPods](http://cocoapods.org). 
 it, simply add the following line to your Podfile:
 
     pod "PRAutoCompleteTextField"
+    
+    import "PRAutoCompleteTextView.h"
+    //initWithFrame
+    PRAutoCompleteTextView* view = [[PRAutoCompleteTextView alloc] initWithFrame:CGRectMake()];
+    [self.view addSubview:view];
+    //get the textField text by:
+    NSString* text = view.text;
+    
 
 ## Author
 

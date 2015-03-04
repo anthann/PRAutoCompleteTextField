@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "PRAutoCompleteTextField"
-  s.version          = "0.0.2"
+  s.version          = "0.0.4"
   s.summary          = "PRAutoCompleteTextField is used for auto complete email address."
   #s.description      = "hello cocoapod"
   s.homepage         = "https://github.com/anthann/PRAutoCompleteTextField"
