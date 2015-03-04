@@ -47,7 +47,6 @@
     [self.AutoCompleteCandidates removeAllObjects];
     //NSRange atLoc = [self.textField.text rangeOfString:@"@"];
     NSArray* split = [self.textField.text componentsSeparatedByString:@"@"];
-    NSLog(@"%@", split);
     
     if ([split[0] isEqualToString:@""]) {
         [self.tableView reloadData];
